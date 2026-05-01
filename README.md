@@ -1,6 +1,6 @@
 # Hermes PM Toolkit
 
-Self-writing skills for product managers running on the Hermes agent runtime. Built to accompany [the post on the Monday Gap](#) — drop this folder into `~/.hermes/` and the three workflows load automatically.
+Self-writing skills for product managers running on the Hermes agent runtime. Built to accompany [the post on the Monday Gap](https://www.news.aakashg.com/p/hermes-agent-guide) — drop this folder into `~/.hermes/` and the three workflows load automatically.
 
 ## What's in here
 
