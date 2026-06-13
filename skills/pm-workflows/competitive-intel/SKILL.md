@@ -1,6 +1,9 @@
 ---
 name: competitive-intel
 description: Run competitive monitoring and generate a structured briefing with pattern detection across accumulated runs. Fires automatically on the Monday 8 AM cron schedule if configured. Trigger on "run competitive briefing", "what did competitors ship", "competitive monitoring", "check [competitor] changelog".
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Competitive Intelligence Skill

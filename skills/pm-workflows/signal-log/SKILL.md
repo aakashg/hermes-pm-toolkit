@@ -1,6 +1,9 @@
 ---
 name: signal-log
 description: Capture customer signals from interviews, sales emails, support threads, and any raw customer feedback. Searches prior signals before logging. Detects patterns across persona, plan tier, and frequency. Trigger on "/signal-log", "log this interview", "what have we heard about X", "pull signal before my PRD".
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Customer Signal Logger

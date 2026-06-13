@@ -1,6 +1,9 @@
 ---
 name: decision-log
 description: Log and retrieve planning decisions with full reasoning, rejected alternatives, and flip conditions. Automatically searches prior decision history before any planning interaction. Stops the same debate from running twice. Trigger on "/decision-log", "should we build X", "deprioritize", "why did we decide", "have we looked at this before".
+version: 1.0.0
+license: MIT
+metadata.hermes.tags: []
 ---
 
 # Decision Logger
